@@ -1,0 +1,7 @@
+{
+  "directory_name": "{{cookiecutter.service_name}}",
+  "service_name": "{{cookiecutter.service_name}}",
+  "author": "foobar",
+  "python_version": 3.8,
+  "todays_date": "yyyy-mm-dd"
+}
