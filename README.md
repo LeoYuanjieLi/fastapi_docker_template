@@ -1,4 +1,4 @@
-# Backend Service template
+# FastAPI Docker Template
 
 This cookiecutter template can be used to create a containerized app (fastapi framework).
 
