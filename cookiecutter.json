@@ -1,6 +1,6 @@
 {
-  "directory_name": "{{cookiecutter.directory_name}}",
-  "service_name": "{{cookiecutter.service_name}}",
+  "directory_name": "temp_dir",
+  "service_name": "temp_service",
   "author": "foobar",
   "python_version": 3.8,
   "todays_date": "yyyy-mm-dd"
