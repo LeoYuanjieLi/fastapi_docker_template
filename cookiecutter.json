@@ -1,5 +1,5 @@
 {
-  "directory_name": "{{cookiecutter.service_name}}",
+  "directory_name": "{{cookiecutter.directory_name}}",
   "service_name": "{{cookiecutter.service_name}}",
   "author": "foobar",
   "python_version": 3.8,
